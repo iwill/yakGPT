@@ -123,7 +123,7 @@ export default function Hero() {
               </Button>
               <Button
                 component="a"
-                href="https://github.com/yakGPT/yakGPT"
+                href="https://github.com/iwill/yakGPT"
                 variant="default"
                 radius="xl"
                 size="md"
